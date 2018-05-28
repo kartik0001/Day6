@@ -1,5 +1,4 @@
-''' Q4. '''
-
+# Q4.
 
 def power(a,b):
     ''' function to calculate power of a raised by b'''

@@ -1,6 +1,5 @@
 # Q3.
 
-
 i=1
 def multiply(n,i,lst):
     ''' Function to print the multiplication table of 12 '''
